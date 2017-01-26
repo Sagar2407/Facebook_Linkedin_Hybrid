@@ -16,5 +16,3 @@ PROCEDURE TO RUN THE APPLICATION
 6. Next time, just click on Login from the aboutus.php page and connect to users and employees.
 
 THANK YOU
-
-- Team Group 8
